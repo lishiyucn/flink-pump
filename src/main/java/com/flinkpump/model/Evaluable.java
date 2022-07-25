@@ -1,4 +1,4 @@
-package cn.lishiyu.model;
+package com.flinkpump.model;
 
 
 public interface Evaluable {

@@ -1,14 +1,14 @@
-package cn.lishiyu.job;
+package com.flinkpump.job;
 
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
 import java.util.function.BiConsumer;
 
-import cn.lishiyu.kafka.KafkaProducerCenter;
-import cn.lishiyu.model.ClientLogSink;
-import cn.lishiyu.model.ClientLogSource;
-import cn.lishiyu.model.DynamicProducerRule;
-import cn.lishiyu.zkconfigcenter.ZkBasedConfigCenter;
+import com.flinkpump.kafka.KafkaProducerCenter;
+import com.flinkpump.model.ClientLogSink;
+import com.flinkpump.model.ClientLogSource;
+import com.flinkpump.model.DynamicProducerRule;
+import com.flinkpump.zkconfigcenter.ZkBasedConfigCenter;
 import org.apache.commons.lang3.RandomUtils;
 import org.apache.flink.api.common.restartstrategy.RestartStrategies;
 import org.apache.flink.api.java.utils.ParameterTool;

@@ -1,10 +1,8 @@
-package cn.lishiyu.model;
+package com.flinkpump.model;
 
-import cn.lishiyu.codegen.JaninoUtils;
-import lombok.AllArgsConstructor;
+import com.flinkpump.codegen.JaninoUtils;
 import lombok.Builder;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 
 

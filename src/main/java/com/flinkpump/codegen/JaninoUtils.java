@@ -1,6 +1,6 @@
-package cn.lishiyu.codegen;
+package com.flinkpump.codegen;
 
-import cn.lishiyu.model.Evaluable;
+import com.flinkpump.model.Evaluable;
 
 import lombok.extern.slf4j.Slf4j;
 import org.codehaus.janino.SimpleCompiler;

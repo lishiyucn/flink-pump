@@ -1,4 +1,4 @@
-package cn.lishiyu.model;
+package com.flinkpump.model;
 
 import lombok.Builder;
 import lombok.Data;

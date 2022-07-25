@@ -1,4 +1,4 @@
-package cn.lishiyu.kafka.demo;
+package com.flinkpump.kafka.demo;
 
 
 public class Application {

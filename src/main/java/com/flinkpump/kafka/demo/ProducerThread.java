@@ -1,4 +1,4 @@
-package cn.lishiyu.kafka.demo;
+package com.flinkpump.kafka.demo;
 
 import java.util.Properties;
 import java.util.concurrent.ExecutionException;

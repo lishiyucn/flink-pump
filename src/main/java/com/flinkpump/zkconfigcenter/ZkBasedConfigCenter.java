@@ -1,4 +1,4 @@
-package cn.lishiyu.zkconfigcenter;
+package com.flinkpump.zkconfigcenter;
 
 import java.lang.reflect.Type;
 import java.util.HashMap;
@@ -10,7 +10,7 @@ import java.util.concurrent.ConcurrentMap;
 import java.util.function.BiConsumer;
 import java.util.function.Consumer;
 
-import cn.lishiyu.model.DynamicProducerRule;
+import com.flinkpump.model.DynamicProducerRule;
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;
 import org.apache.curator.framework.recipes.cache.TreeCache;
